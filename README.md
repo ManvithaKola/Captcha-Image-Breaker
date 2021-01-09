@@ -16,7 +16,6 @@ This generates 30000 image captchas with 4 characters per captcha, using the set
 
 ```
 python train.py --width 128 --height 64 --length 4 --symbols symbols.txt --batch-size 32 --epochs 10 --train-dataset training_data --validate-dataset validation_data
-
 ```
 
 Train the neural network for 10 epochs on the generated data . One epoch is one pass through the entire dataset.
