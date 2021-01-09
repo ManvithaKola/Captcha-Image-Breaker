@@ -1,4 +1,4 @@
-# CNN based Captcha Image Breaker
+# CNN based Captcha Image Breaker using tflite
 
 ## Requirements
 python-captcha, opencv_python, python-tensorflow (CPU or GPU), tflite, tflite_runtime
